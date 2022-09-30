@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Fredy Rodrigo</h1>
-<h3 align="center">Soy un desarrollador frontend apasionado</h3>
+<h3 align="center">Soy un desarrollador frontend </h3>
 
 - 🌱 Actualmente estoy aprendiendo **React JS**
 
